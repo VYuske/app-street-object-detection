@@ -1,4 +1,4 @@
-#app-street-object-detection
+# app-street-object-detection
 
 Aplicativo Android para detecção em tempo real de cinco classes de objetos urbanos: tree, car, dumpster, street sign e light pole. O projeto demonstra um fluxo completo de inferência on-device utilizando um modelo otimizado para execução em dispositivos móveis, com foco em desempenho e simplicidade de uso.
 
