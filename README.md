@@ -1,5 +1,6 @@
-# app-street-object-detection
+#app-street-object-detection
 
-Mobile app for Android to predict 5 classes: tree, car, dumpster, street sign and light pole.
+Aplicativo Android para detecção em tempo real de cinco classes de objetos urbanos: tree, car, dumpster, street sign e light pole. O projeto demonstra um fluxo completo de inferência on-device utilizando um modelo otimizado para execução em dispositivos móveis, com foco em desempenho e simplicidade de uso.
 
-Use this [![LINK]()](https://www.youtube.com/watch?v=QXnPoR7ZaL0) to watch the app demo.
+Assista à demonstração do aplicativo:
+https://www.youtube.com/watch?v=QXnPoR7ZaL0
